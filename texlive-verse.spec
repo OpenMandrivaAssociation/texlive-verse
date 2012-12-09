@@ -50,3 +50,16 @@ indentation to the Mouse's tale from Alice in Wonderland.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc source %{buildroot}%{_texmfdistdir}
+
+
+%changelog
+* Thu Jan 05 2012 Paulo Andrade <pcpa@mandriva.com.br> 2.4-2
++ Revision: 757418
+- Rebuild to reduce used resources
+
+* Sat Nov 05 2011 Paulo Andrade <pcpa@mandriva.com.br> 2.4-1
++ Revision: 719885
+- texlive-verse
+- texlive-verse
+- texlive-verse
+
