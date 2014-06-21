@@ -1,12 +1,12 @@
-# revision 15878
+# revision 34017
 # category Package
 # catalog-ctan /macros/latex/contrib/verse
-# catalog-date 2009-09-04 12:14:45 +0200
+# catalog-date 2014-05-10 11:58:31 +0200
 # catalog-license lppl
-# catalog-version 2.4
+# catalog-version 2.4b
 Name:		texlive-verse
-Version:	2.4
-Release:	7
+Version:	2.4b
+Release:	1
 Summary:	Aids for typesetting simple verse
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/verse
@@ -50,16 +50,3 @@ indentation to the Mouse's tale from Alice in Wonderland.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc source %{buildroot}%{_texmfdistdir}
-
-
-%changelog
-* Thu Jan 05 2012 Paulo Andrade <pcpa@mandriva.com.br> 2.4-2
-+ Revision: 757418
-- Rebuild to reduce used resources
-
-* Sat Nov 05 2011 Paulo Andrade <pcpa@mandriva.com.br> 2.4-1
-+ Revision: 719885
-- texlive-verse
-- texlive-verse
-- texlive-verse
-
