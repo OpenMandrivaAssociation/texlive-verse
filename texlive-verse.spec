@@ -6,7 +6,7 @@
 # catalog-version 2.4b
 Name:		texlive-verse
 Version:	2.4b
-Release:	2
+Release:	3
 Summary:	Aids for typesetting simple verse
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/verse
