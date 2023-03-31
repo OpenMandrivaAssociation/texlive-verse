@@ -1,6 +1,6 @@
 Name:		texlive-verse
 Version:	34017
-Release:	1
+Release:	2
 Summary:	Aids for typesetting simple verse
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/verse
