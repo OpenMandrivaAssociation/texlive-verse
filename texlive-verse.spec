@@ -3,7 +3,7 @@ Version:	69882
 Release:	1
 Summary:	Aids for typesetting simple verse
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/verse
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/verse
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/verse.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/verse.doc.r%{version}.tar.xz
